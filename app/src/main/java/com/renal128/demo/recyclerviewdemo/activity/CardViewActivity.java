@@ -3,12 +3,8 @@ package com.renal128.demo.recyclerviewdemo.activity;
 import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
-import android.support.v7.widget.DefaultItemAnimator;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 
 import com.renal128.demo.recyclerviewdemo.R;
-import com.renal128.demo.recyclerviewdemo.com.renal128.demo.recyclerviewdemo.adapter.RecyclerViewAdapter;
 import com.renal128.demo.recyclerviewdemo.model.Record;
 
 import java.util.ArrayList;

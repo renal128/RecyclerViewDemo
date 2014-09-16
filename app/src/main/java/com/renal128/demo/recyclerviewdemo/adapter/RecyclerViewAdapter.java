@@ -1,4 +1,4 @@
-package com.renal128.demo.recyclerviewdemo.com.renal128.demo.recyclerviewdemo.adapter;
+package com.renal128.demo.recyclerviewdemo.adapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
