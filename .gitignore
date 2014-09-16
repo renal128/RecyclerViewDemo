@@ -30,3 +30,6 @@ proguard/
 
 # Log Files
 *.log
+
+# Idea files
+.idea/
